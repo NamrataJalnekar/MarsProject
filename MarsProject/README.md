@@ -1,2 +1,0 @@
-# MarsProject
-Mars project repository
